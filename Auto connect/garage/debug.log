@@ -1,0 +1,23 @@
+Array
+(
+    [Ownername] => dee
+    [Owneremail] => uduresa@gmail.com
+    [modelyear] => 2016
+    [seatingcapacity] => 5
+    [odometer] => 855
+    [mileage] => 863
+    [platenumber] => AC78952
+    [userid] => 6
+    [transmission_performance] => 4
+    [exhaust_system] => 3
+    [light] => 3
+    [tire_condition] => 3
+    [bodywork] => 3
+    [engine_condition] => 3
+    [vehicle_orc_view] => gfgf
+    [airconditioner] => 1
+    [antilockbrakingsys] => 1
+    [powersteering] => 1
+    [driverairbag] => 1
+    [submits] => 
+)
