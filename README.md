@@ -41,8 +41,8 @@ Access the project via http://localhost/car-rental-and-sales.
 ### Screenshots 
 
 ![Explore Screenshot](screenshots/Explore.png)
-![Car Listing Screenshot](screenshots/car listing .png)
+![Car Listing Screenshot](screenshots/carListing.png)
 ![Homepage Screenshot](screenshots/homepage.png)
-![Vehicle Detail 1 Screenshot](screenshots/vehicle detail 1.png)
-![Vehicle Detail 2 Screenshot](screenshots/vehicle detail 2.png)
+![Vehicle Detail 1 Screenshot](screenshots/vehicleDetail1.png)
+![Vehicle Detail 2 Screenshot](screenshots/vehicledetail2.png)
 
